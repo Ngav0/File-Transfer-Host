@@ -6,7 +6,8 @@ The Client sends files, and the server recieves them
 
 There is added security so you won't recieve random connections from other people.
 The secret key, and you can manually configure the only IP you'll allow to make connection.
-I can't guarantee it's foolproof tho.
+I can't guarantee it's foolproof tho. Because there is also no encryption what so ever, you anyone on the same network can just sniff and read your files.
+This isn't meant to be a really secure program, just a little side project
 
 
 You'll need the following python library:
