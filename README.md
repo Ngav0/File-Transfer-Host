@@ -11,4 +11,5 @@ I can't guarantee it's foolproof tho.
 
 You'll need the following python library:
 tkinterdnd2
+
 You can install it using the following command: pip install tkinterdnd2
